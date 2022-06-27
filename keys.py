@@ -1,0 +1,2 @@
+Pkey = "YOUR API PUBLIC KEY"
+Skey = "YOUR API SECRET KEY"
